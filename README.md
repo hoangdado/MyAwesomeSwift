@@ -10,3 +10,4 @@ List of great github library of Swift
 - PAINTING & DRAWING
   * [MaLiang](https://github.com/Harley-xk/MaLiang) - Painting and drawing library based on Metal
   * [Drawsana](https://github.com/Asana/Drawsana) - Draw on things - mark up images with text, shapes, etc.
+  * [Macaw](https://github.com/exyte/Macaw) - Powerful and easy-to-use vector graphics Swift library with SVG support
