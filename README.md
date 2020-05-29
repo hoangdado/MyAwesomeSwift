@@ -7,6 +7,7 @@ List of great github library of Swift
   * [Haptica](https://github.com/efremidze/Haptica) - Easy Haptic Feedback Generator
   * [SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X 
   * [Haptica](https://github.com/efremidze/Haptica) - Easy Haptic Feedback Generator 📳
+  * [Flix](https://github.com/DianQK/Flix) - iOS reusable form library in Swift
   
 - PAINTING & DRAWING
   * [MaLiang](https://github.com/Harley-xk/MaLiang) - Painting and drawing library based on Metal
